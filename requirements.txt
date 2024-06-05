@@ -45,5 +45,5 @@ threadpoolctl==2.1.0
 toml==0.10.2
 typing-extensions==3.7.4.3
 urllib3==1.26.18
-Werkzeug==2.3.8
+Werkzeug==3.0.3
 wrapt==1.12.1
