@@ -14,7 +14,7 @@ h5py==3.1.0
 idna==2.10
 imutils==0.5.4
 joblib==1.2.0
-Keras==2.4.3
+Keras==2.13.1
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
 Markdown==3.3.4
